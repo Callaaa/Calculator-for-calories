@@ -1,0 +1,11 @@
+P:\CalculatorForCalories\CalculatorForCalories\bin\Debug\CalculatorForCalories.exe.config
+P:\CalculatorForCalories\CalculatorForCalories\bin\Debug\CalculatorForCalories.exe
+P:\CalculatorForCalories\CalculatorForCalories\bin\Debug\CalculatorForCalories.pdb
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.csproj.AssemblyReference.cache
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.csproj.SuggestedBindingRedirects.cache
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.Form1.resources
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.Properties.Resources.resources
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.csproj.GenerateResource.cache
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.csproj.CoreCompileInputs.cache
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.exe
+P:\CalculatorForCalories\CalculatorForCalories\obj\Debug\CalculatorForCalories.pdb
